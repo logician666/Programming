@@ -1,0 +1,2 @@
+Following the curriculum set by the Python Institute for the PCPP certification examination,
+and adapted from the materials provided by the same institute and presented through <b><a href="edube.org">Edube</a></b> we here lay done knowledge documents to reflect on our understanding of the matters studied, and add explore more thoughts related.
